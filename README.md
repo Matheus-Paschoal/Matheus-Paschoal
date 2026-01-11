@@ -59,8 +59,8 @@ Currently, I am building hands-on projects using real and simulated datasets, fo
 ---
 
 ## 📫 Get in Touch
-- 💼 LinkedIn: **(add your link here)**
-- 📧 Email: **(add your email here)**
+
+- 📧 Email: **matheuspaschoallima@hotmail.com**
 
 ---
 
